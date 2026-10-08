@@ -31,7 +31,7 @@ A version can be published only once. To publish changes, raise `project.version
 
 ## Install into an OML project
 
-In a project that depends on the package (for example `fireforce6`):
+In a project that depends on the package (for example `sierra-example`):
 
 ```bash
 oml install -r http://localhost:4873
